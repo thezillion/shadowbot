@@ -1,8 +1,8 @@
 /*
- * Author:Jacob 
- * 
- * 
-*/
+ * Author:Jacob Sabu
+ * Topic:Input Final Code
+ * Date:07/07/2018
+ */
 
 #include <Wire.h>
 #include <L3G4200D.h>
